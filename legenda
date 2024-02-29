@@ -1,0 +1,5 @@
+1. bit -> 1 - sensor, 0 - actuator
+2. i 3. bit -> id uredjaja
+4. i 5. -> tip senzora ili aktuatora ------ 00 - temperatura , 01 - vlaznost, 10 - svetslost
+
+
